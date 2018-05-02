@@ -1,0 +1,10 @@
+{
+  "PublicServer": false,
+  "Password": "",
+  "IPAddress": "Any",
+  "GameServerPort": 3000,
+  "WebServerPort": 3001,
+  "DetectNAT": true,
+  "Rate": 10,
+  "ServerBrowserService": "https://ecoauth.strangeloopgames.com/game"
+}
